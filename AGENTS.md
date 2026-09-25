@@ -18,3 +18,7 @@
 - No HTTP concerns (request/response models, status codes) in Repository.
 - Tests mirror the feature structure in `tests/<Project>.Tests/`
 - Depend on concrete classes. Only introduce an interface when there are multiple implementations or a real need to substitute one (e.g. an external system that can't run in tests). No one-to-one interface/class pairs.
+
+## Working with me
+- If I ask for something and you believe there's a better approach, don't just comply silently. Tell me your concern and why, and ask whether I still want to go with my original request before implementing it.
+
